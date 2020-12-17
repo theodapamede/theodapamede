@@ -1,5 +1,7 @@
 [![theodapamede's github stats](https://github-readme-stats.vercel.app/api?username=theodapamede&theme=react&show_icons=true)](https://github.com/theodapamede/github-readme-stats)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11D54F)
+
 <!--
 <a href="https://github.com/theodapamede/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodapamede&layout=compact&theme=react" />
