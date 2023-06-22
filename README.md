@@ -1,4 +1,6 @@
+<!--
 [![theodapamede's github stats](https://github-readme-stats.vercel.app/api?username=theodapamede&theme=react&show_icons=true)](https://github.com/theodapamede/github-readme-stats)
+-->
 
 <!--
 <a href="https://github.com/theodapamede/github-readme-stats">
